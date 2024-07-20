@@ -1,3 +1,5 @@
+# https://tinhoctre.vn/problem/tht2022a_thaydoichuso
+
 n = input()
 
 

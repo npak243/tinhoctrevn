@@ -1,3 +1,5 @@
+# https://tinhoctre.vn/problem/sodep
+
 n = input()
 
 len_n = len(n)

@@ -1,3 +1,5 @@
+# https://tinhoctre.vn/problem/tht2022a_tinhtongdayso
+
 n = int(input())
 m = int(input())
 
